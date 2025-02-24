@@ -1,4 +1,4 @@
-## TripUS ✈️  
+## Lady Language Game 
 > 여자친구의 말을 간파하고 기분을 맞춰주세요 😔
 
 ## 기간 🗓️
