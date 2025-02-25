@@ -7,7 +7,7 @@
 ## 참여자 😘
 - 백엔드 : [심정민](https://github.com/JM7160), [윤주영](https://github.com/juyoung07)
 - 프론트 : [안채연](https://github.com/Anchaeyeon), [양은서](https://github.com/a1242yes), [윤주영](https://github.com/juyoung07), [이서영](https://github.com/dltjdud-0225)
-- 디자이너 : [김예린]
+- 디자이너 : [김예린](https://github.com/yerin7)
 
 ## Tech Stack ⚒️
 - 백엔드 : Nest.js
